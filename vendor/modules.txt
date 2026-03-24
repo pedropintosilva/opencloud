@@ -2764,9 +2764,6 @@ google.golang.org/protobuf/types/known/wrapperspb
 # gopkg.in/cenkalti/backoff.v1 v1.1.0
 ## explicit
 gopkg.in/cenkalti/backoff.v1
-# gopkg.in/ini.v1 v1.67.1
-## explicit; go 1.13
-gopkg.in/ini.v1
 # gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7
 ## explicit
 gopkg.in/tomb.v1
